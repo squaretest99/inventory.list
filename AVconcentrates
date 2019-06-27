@@ -20,6 +20,36 @@ quantity = [2,6,6,8,5,2,5,4,6,4,6,5,4,7,6,3,5,5,3,5,5,3,4,
 5,8,5,0,6,4,3,6,8,5,6,5,5,4,4,4,5,5,3,6,5,5,3,5,5,5,6,4,5,5,4,11,5,0,4,6,8,5,8,8,6,6,
 6,10,6,5,8,6,5,5,4,3,5,2,7,7,5,5,6,7,4,4,5,3,5,4,7,6,6,6,5,6,5,5,4,6,0,6,6,4,0,7,6,6,4,5,
 3,3,5,5,5,5,6,6,0,0,6,0,4,5,6,1,2,1,7,5,6,5,7,9,3,5,3,7,7,7,5,3,6,8,]
-print (concentrates + quantity)
+print (concentrates)
+print (quantity)
 # need indentation between concentrates and quantity
 # also need to add drop button function for each value
+# this is our pre made house juice, then also with nicotine levels separate these need to change to clases
+AV120 = ['Black Raz Ade', 'Blue French toast', 'Bones','Cali Breeze', 'Caramel coffee toffee',
+'Creamy nut', 'Dino Bites','Dragon Slayer','Echo','Electric jolt','Fat kid','Frost Dragon', 'Fruit Flood','Ghots Town','Gluttony','Gremlin Grahams','Hawaiian Eskimo','Honey bun',
+'Icy Blue Raz', 'Juicy Candy', 'Jupiter','Liu tang','Loopy','Maidens milk','Mango melon mashup','Menthol Ice', 'Moreley Red','Mothers love', 'Mr apples','Muse',
+'Off the wall','OG Steve', 'On call','Paraiso', 'Pixie tears','Poncho Vanilla', 'Raider','Rawwr Berries', 'Serial killa','Sour Grinch','Space Boy','Strazz melonade','Sweet Dreams',
+'Sweet water', 'The Bustard','The Tropics', 'Tidus', 'Tigers blood','Top of the muffin','Tropic thunder','unicorn dream','Watastrazz', 'Wish B', 'Wyatt Earp', 'Zombified']
+nicotine0 = [1,1,1,1,2,1,2,3,1,5,3,1,1,2,3,2,2,1,2,3,2,2,1,1,2,3,1,1,3,2,2,3,3,2,2,2,1,1,3,
+1,1,3,1,1,2,1,2,1,1,3,1,1,1,1,1,1,2,2] 
+
+nicotine3 = [ 2,2,2,2,2,4,1,3,3,5,3,2,1,3,2,1,5,2,3,2,2,3,2,3,2,4,2,1,1,3,2,4,4,3,,2,2,3,
+3,5] 
+
+
+nicotine6 = [2,3,2,4,3,2,4,3,3,1,2,4,2,3,2,3,2,3,2,3,3,1,3,2,3,4,3,2,2,2,2,3,3,3,2,1,2,3,3,3,4,3,2,
+0,1,2,2,3,3,4,2,2,2] 
+nicotine12 = [ 3,3,1,3,2,1,2,1,1,1,1,2,3,1,1,3,2,2,1,4,2,1,3,1,2,1,2,3,1,2,1,2,1,1,1,1,1,1,1,3,
+1,1,2,1,2,2] 
+
+AV60 = ['Black Raz Ade', 'Blue French toast', 'Bones','Cali Breeze', 'Caramel coffee toffee',
+'Creamy nut', 'Dino Bites','Dragon Slayer','Echo','Electric jolt','Fat kid','Frost Dragon', 'Fruit Flood','Ghots Town','Gluttony','Gremlin Grahams','Hawaiian Eskimo','Honey bun',
+'Icy Blue Raz', 'Juicy Candy', 'Jupiter','Liu tang','Loopy','Maidens milk','Mango melon mashup','Menthol Ice', 'Moreley Red','Mothers love', 'Mr apples','Muse',
+'Off the wall','OG Steve', 'On call','Paraiso', 'Pixie tears','Poncho Vanilla', 'Raider','Rawwr Berries', 'Serial killa','Sour Grinch','Space Boy','Strazz melonade','Sweet Dreams',
+'Sweet water', 'The Bustard','The Tropics', 'Tidus', 'Tigers blood','Top of the muffin','Tropic thunder','unicorn dream','Watastrazz', 'Wish B', 'Wyatt Earp', 'Zombified']
+
+AV30 = ['Black Raz Ade', 'Blue French toast', 'Bones','Cali Breeze', 'Caramel coffee toffee',
+'Creamy nut', 'Dino Bites','Dragon Slayer','Echo','Electric jolt','Fat kid','Frost Dragon', 'Fruit Flood','Ghots Town','Gluttony','Gremlin Grahams','Hawaiian Eskimo','Honey bun',
+'Icy Blue Raz', 'Juicy Candy', 'Jupiter','Liu tang','Loopy','Maidens milk','Mango melon mashup','Menthol Ice', 'Moreley Red','Mothers love', 'Mr apples','Muse',
+'Off the wall','OG Steve', 'On call','Paraiso', 'Pixie tears','Poncho Vanilla', 'Raider','Rawwr Berries', 'Serial killa','Sour Grinch','Space Boy','Strazz melonade','Sweet Dreams',
+'Sweet water', 'The Bustard','The Tropics', 'Tidus', 'Tigers blood','Top of the muffin','Tropic thunder','unicorn dream','Watastrazz', 'Wish B', 'Wyatt Earp', 'Zombified']
