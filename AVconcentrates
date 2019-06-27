@@ -1,0 +1,25 @@
+# standard list of inventory still need to a pull value of quantity with square
+concentrates = ['Aloha kick', 'American Pie', 'Aqua blast', 'Arizona Breeze', 'B muffs', 'Banana Stand', 'bang bang', 
+'bang berry', 'Bat Rastard', 'Beanut putter', 'Berry cheesecake', 'Big bubble gum', 'Black Raz Ade', 'Blue French Toast',
+'Blue Ice', 'Blue Ice Acai', 'bones', 'Boom Berry', 'cake heaven','cake roll', 'cali breeze', 'cali frozen', 'caramel coffee toffee',
+'cheapshot', 'cheesecake graham', 'cheshire', 'chimera', 'cinnamon red hots','coconut', 'colossal titan', 'cooling agent', 'cotton candy',
+'creamy buns', 'creamy nut', 'CTC', 'cucumber melon nut', 'dairy dude', 'Dino bites', 'Double apple', 'Dream cream', 'Dublin disaster',
+'Echo', 'Electric jolt', 'Extreme Ice','Fair food', 'Fat kid','flappy bird', 'flubber', 'franken brains', 'Franch vanilla', 'frenchy',
+'freya','Frost dragon','Fruit Flood', 'fruite stripe gum','Ghost town', 'ghost town ice', 'gluttony', 'golden pineapple', 'grape', 'green goblin', 
+'Gremlin Grahams', 'Hawaiian Eskimo', 'Homeworld', 'honeybun', 'honey dew','Iced latte', 'icy blue razz', 'Juicy candy', 'Juicy peach ', 'Jupiter', 'Killer candy','lemon bar', 'lemon pounder, lemonade',
+'liquid gold', 'liu tang', 'lons milk', 'loopy', 'louise','Maidens milk', 'Mamacita', 'Mango Melon mashup', 'Mango Peach', 'Menthol Ice', 'Mint Candy', 'Misty Mint', 'monsoon', 'Mothers love','Mothership','Mr apples iced', 'mr bubbles',
+'Muse','Muse town','Nurdz', 'Ny cheesecake','Off the wall','OG steve', 'On call','palladium', 'Paraiso', 'Peach cobbler', 'Peanut butter cheesecake', 'pegasus puke',
+'pegasus puke', 'peppermint', 'perfect ten', 'Periphery', 'Pig stop', 'Pink french toast', 'Pink love', 'pink wizard', 'pixie tears','Pomegranate', 'poncho vanilla','purple ice acai', 'Raider', 'Rainbow jimmy', 'Rawwr berries',
+'Real deal', 'red french toast', 'red fusion', 'renegade','Serial killa', 'Sexy candy', 'Shell shocked', 'Sour Bratz', 'Sour grinch',
+'Space Boy', 'Strawberry', 'Strawberry cake roll', 'Strawberry Daiquri', 'Strawberry malt', 'Strawberry Ripe', 'strawberry shortcake', 'strazz apples', 'strazz melonade', 'sugar cub', 'Swamp monster', 'sweet dreams',
+'sweet mango', 'sweet raspberry', 'sweet strawberry', 'sweet water', 'sweetner','The Drop', 'The GOAT', 'The Gentleman', 'The tropics', 'Tidus','Tigers blood', 'toasty', 'Top of the muffin','Toucans revenge',
+'Tricky rick', 'Tropic Thunder', 'Tropical punch', 'Unicorn Dream','Unicorn goo','Vanilla bean ice cream', 'Vanilla custard','Watastrazz','watermelon B', 'Watermelon G', 'Watermelon kiwi', 'Wattage', 'Western', 'Wild Blueberry','Wild cherry',
+'Wild hog', 'Wish B', 'Wyatt Earp','Yoshi Goo', 'Zombified']
+quantity = [2,6,6,8,5,2,5,4,6,4,6,5,4,7,6,3,5,5,3,5,5,3,4,
+0,11,5,6,3,6,4,3,5,4,5,3,,3,3,4,8,6,10,4,5,8,5,4,9,2,2,3,0,4,6,0,4,5,4,5,
+5,8,5,0,6,4,3,6,8,5,6,5,5,4,4,4,5,5,3,6,5,5,3,5,5,5,6,4,5,5,4,11,5,0,4,6,8,5,8,8,6,6,
+6,10,6,5,8,6,5,5,4,3,5,2,7,7,5,5,6,7,4,4,5,3,5,4,7,6,6,6,5,6,5,5,4,6,0,6,6,4,0,7,6,6,4,5,
+3,3,5,5,5,5,6,6,0,0,6,0,4,5,6,1,2,1,7,5,6,5,7,9,3,5,3,7,7,7,5,3,6,8,]
+print (concentrates + quantity)
+# need indentation between concentrates and quantity
+# also need to add drop button function for each value
